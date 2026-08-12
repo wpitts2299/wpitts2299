@@ -33,7 +33,7 @@ Senior capstone project extending an existing Unity racing game with multiplayer
 
 - Supported networked gameplay for multiple concurrent players.
 - Documented and tested game mechanics, player-controller systems, and multiplayer synchronization.
-- Led team collaboration across design, implementation, testing, documentation, and release activities.
+- Led team collaboration across design, testing, documentation, and release activities.
 - Developed the project website and technical documentation.
 - Worked with the KSU–SPSU Alumni Association to translate stakeholder requirements into project direction.
 - **1st Place Team — KSU College of Computing and Software Engineering Spring 2026 C-Day Undergraduate Project Competition**
