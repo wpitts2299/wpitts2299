@@ -106,6 +106,7 @@ Software Engineering • Backend Development • C#/.NET • Python Development 
 
 **GitHub:** [github.com/wpitts2299](https://github.com/wpitts2299)  
 **Project Portfolio:** [multiplayertubracinggame.com](https://multiplayertubracinggame.com)
+
 **Gmail Address:** [wdp2299@gmail.com](wdp2299@gmail.com)  
 
 ---
